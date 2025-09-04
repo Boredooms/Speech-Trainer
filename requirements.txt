@@ -1,0 +1,10 @@
+vosk==0.3.45
+
+# Please download the following models from the Vosk website:
+# - vosk-model-small-de-zamia-0.3
+# - vosk-recasepunc-en-0.22
+pyaudio
+transformers==4.30.2
+torch<2.0.0
+opencv-python
+git+https://github.com/benob/recasepunc.git

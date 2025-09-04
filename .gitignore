@@ -1,0 +1,7 @@
+# Ignore Vosk models
+vosk-model-small-de-zamia-0.3/
+vosk-recasepunc-en-0.22/
+
+# Python cache
+__pycache__/
+*.pyc
